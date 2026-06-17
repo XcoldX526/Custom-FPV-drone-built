@@ -1,0 +1,19 @@
+Category,Item,Spec/Brand,Notes,Price (USD)
+PCB,PCB fabrication,JLCPCB 2-layer FR4,"3 pcs (was 5) - trimmed spares for budget",10
+PCB,PCB SMD components,STM32F722 / MPU-6050 / MAX7456 / passives,Source from LCSC alongside JLCPCB order - unchanged,25
+Motors & Propulsion,Brushless motors x4,Generic 2207 ~1750-2450KV (e.g. WEI2207),CW/CCW variants - downgraded from EMAX Eco II 2207 2400KV for budget,42
+Motors & Propulsion,4-in-1 ESC,SpeedyBee F405 V4 55A,DShot600 - BLHeli_32 - Bluetooth config - unchanged,45
+Motors & Propulsion,Propellers,Gemfan 51466,2 sets (was 3) - trimmed for budget,8
+Power System,LiPo battery,4S 1500mAh 100C,1 pack (was 2) - trimmed for budget - single pack OK for testing/tuning,25
+Power System,LiPo charger,Generic 1S-6S balance charger,Downgraded from ISDT Q6 Plus for budget,15
+FPV System,FPV Goggles,BetaFPV VR03 (analog),"Changed from Walksnail Avatar HD Goggles L (digital) for budget - 4.3in 800x480 LCD, no diversity receiver",45
+FPV System,FPV Camera,Caddx Ratel 2 (analog),Changed from Walksnail digital combo for budget - 1/1.8in Starlight sensor 1200TVL,41
+FPV System,Analog VTX,Generic switchable 25/200/600mW 5.8GHz,"New line item (was bundled in Walksnail kit) - set to 25mW for EU/Ireland legal compliance",22
+Radio Control,Radio (transmitter),RadioMaster Pocket - ELRS built-in - EdgeTX,Changed from RadioMaster Boxer for budget - no hall gimbals,45
+Radio Control,Radio batteries,2x 18650 cells,Not included with Pocket radio - required separately,8
+Radio Control,ELRS receiver,Happymodel EP1 Dual,Diversity antennas - unchanged,16
+Hardware & Consumables,M2/M3 hardware kit,Generic screws/standoffs/nylon nuts,For PCB stack isolation and frame assembly - unchanged,8
+Hardware & Consumables,Soldering supplies,63/37 rosin core solder + flux pen + heat shrink,Unchanged,12
+Hardware & Consumables,Thread locker,Loctite 243 blue,Apply to motor screws - unchanged,5
+Hardware & Consumables,3D print filament,PETG,For self-printed custom frame STL - unchanged,20
+,,,TOTAL,392
