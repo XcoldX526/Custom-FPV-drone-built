@@ -10,24 +10,22 @@
 7,JST / Molex Connectors (J1–J4),LCSC,https://www.lcsc.com,1,4,4.0,"Plug sockets for connecting the receiver, camera, VTX and LEDs."
   MOTORS & PROPULSION,,,,,,,
 8,GEPRC SPEEDX2 1404 Motor (×4),GetFPV,https://www.getfpv.com/geprc-speedx2-1404-brushless-motor.html,4,14.99,59.96,Spin the propellers to generate thrust and lift.
-9,Gemfan Hurricane 3020-3 Props (2CW+2CCW) ×2 sets,Pyrodrone,https://pyrodrone.com/products/gemfan-hurricane-3020-3-3-tri-blade-1-5mm-centerhole-t-mount-propellers-2cw-2ccw-choose-color,2,3.99,7.98,Generate airflow/thrust. Replaced after crashes — buy spares.
-  CAMERA & VIDEO,,,,,,,
-10,Caddx Ant Lite Analog Camera,GetFPV,https://www.getfpv.com/caddx-ant-lite-fpv-camera.html,1,18,18.0,Captures the live video feed that is sent to the goggles.
-11,AKK A1918 5.8 GHz VTX,Amazon,https://www.amazon.com/s?k=AKK+A1918+VTX,1,20,20.0,Transmits the live video wirelessly from the drone to the goggles.
+9,Caddx Ant Lite Analog Camera,GetFPV,https://www.getfpv.com/caddx-ant-lite-fpv-camera.html,1,18,18.0,Captures the live video feed that is sent to the goggles.
+10,AKK A1918 5.8 GHz VTX,Amazon,https://www.amazon.com/s?k=AKK+A1918+VTX,1,20,20.0,Transmits the live video wirelessly from the drone to the goggles.
   RADIO SYSTEM,,,,,,,
-12,RadioMaster Pocket (ELRS 2.4 GHz),GetFPV,https://www.getfpv.com/radiomaster-pocket-radio-cc2500-elrs-2-4ghz.html,1,71.49,71.49,The handheld controller you use to fly the drone.
-13,ELRS Nano RX — BetaFPV EP2,GetFPV,https://www.getfpv.com/betafpv-elrs-lite-receiver.html,1,12,12.0,Receives signals from the radio controller and sends them to the FC.
-14,18650 Cells for Radio (×2),Amazon,https://www.amazon.com/s?k=18650+unprotected+flat+top,2,5,10.0,Power source for the radio transmitter.
+11,RadioMaster Pocket (ELRS 2.4 GHz),GetFPV,https://www.getfpv.com/radiomaster-pocket-radio-cc2500-elrs-2-4ghz.html,1,71.49,71.49,The handheld controller you use to fly the drone.
+12,ELRS Nano RX — BetaFPV EP2,GetFPV,https://www.getfpv.com/betafpv-elrs-lite-receiver.html,1,12,12.0,Receives signals from the radio controller and sends them to the FC.
+13,18650 Cells for Radio (×2),Amazon,https://www.amazon.com/s?k=18650+unprotected+flat+top,2,5,10.0,Power source for the radio transmitter.
   FPV GOGGLES,,,,,,,
-15,EV800D 5.8 GHz Analog Goggles w/ DVR,GetFPV,https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html,1,89,89.0,Headset that displays the live video from the drone camera.
+14,EV800D 5.8 GHz Analog Goggles w/ DVR,GetFPV,https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html,1,89,89.0,Headset that displays the live video from the drone camera.
   BATTERIES & CHARGING,,,,,,,
-16,3S 650 mAh LiPo XT30 — CNHL (×2),Amazon,https://www.amazon.com/s?k=CNHL+650mAh+3S+XT30,2,11,22.0,Stores energy and powers the entire drone during flight.
-17,1S–3S USB-C Balance Charger,Amazon,https://www.amazon.com/s?k=1S+3S+lipo+balance+charger+USB-C,1,15,15.0,Safely recharges the LiPo flight batteries.
+15,3S 650 mAh LiPo XT30 — CNHL (×2),Amazon,https://www.amazon.com/s?k=CNHL+650mAh+3S+XT30,2,11,22.0,Stores energy and powers the entire drone during flight.
+16,1S–3S USB-C Balance Charger,Amazon,https://www.amazon.com/s?k=1S+3S+lipo+balance+charger+USB-C,1,15,15.0,Safely recharges the LiPo flight batteries.
   WIRING & CONNECTORS,,,,,,,
-18,Silicone Wire Assorted 24–28 AWG,Amazon,https://www.amazon.com/s?k=silicone+wire+24+28+awg+assorted,1,6,6.0,Carries electrical current between components.
-19,XT30 Connectors (5 pairs) + PH2.0 Set,Amazon,https://www.amazon.com/s?k=XT30+connector+pairs,1,4,4.0,Connects the battery to the drone power circuit.
+17,Silicone Wire Assorted 24–28 AWG,Amazon,https://www.amazon.com/s?k=silicone+wire+24+28+awg+assorted,1,6,6.0,Carries electrical current between components.
+18,XT30 Connectors (5 pairs) + PH2.0 Set,Amazon,https://www.amazon.com/s?k=XT30+connector+pairs,1,4,4.0,Connects the battery to the drone power circuit.
   HARDWARE — FASTENERS & STANDOFFS,,,,,,,
-20,M2 Screws Assorted 6–16 mm (100 pcs),Amazon,https://www.amazon.com/s?k=M2+screws+assorted+kit,1,4,4.0,"Bolt the flight controller, motors and frame together."
-21,M2 Nylon Standoffs & Spacers,Amazon,https://www.amazon.com/s?k=M2+nylon+standoffs+spacers,1,3,3.0,Space and isolate the FC above the ESC in the stack.
-22,M2 Nuts (×50),Amazon,https://www.amazon.com/s?k=M2+nuts+50+pack,1,2,2.0,Lock screws in place so they do not vibrate loose mid-flight.
-23,Rubber Grommets / Anti-vibe Mounts,Amazon,https://www.amazon.com/s?k=M2+rubber+grommets+anti+vibration+FPV,1,3,3.0,Absorb vibration between the FC and frame for a clean gyro signal.
+19,M2 Screws Assorted 6–16 mm (100 pcs),Amazon,https://www.amazon.com/s?k=M2+screws+assorted+kit,1,4,4.0,"Bolt the flight controller, motors and frame together."
+20,M2 Nylon Standoffs & Spacers,Amazon,https://www.amazon.com/s?k=M2+nylon+standoffs+spacers,1,3,3.0,Space and isolate the FC above the ESC in the stack.
+21,M2 Nuts (×50),Amazon,https://www.amazon.com/s?k=M2+nuts+50+pack,1,2,2.0,Lock screws in place so they do not vibrate loose mid-flight.
+22,Rubber Grommets / Anti-vibe Mounts,Amazon,https://www.amazon.com/s?k=M2+rubber+grommets+anti+vibration+FPV,1,3,3.0,Absorb vibration between the FC and frame for a clean gyro signal.
