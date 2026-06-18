@@ -1,0 +1,34 @@
+3-INCH FPV DRONE — BILL OF MATERIALS,,,,,,,
+#,,,,,,,
+  PCB / FLIGHT CONTROLLER BUILD,,,,,,,
+1,,,,,,,
+2,STM32F722RET6 MCU,LCSC,https://www.lcsc.com/search?q=STM32F722RET6,1,6,3.0,The brain of the drone — runs Betaflight flight control software.
+3,MAX7456 OSD Chip,LCSC,https://www.lcsc.com/search?q=MAX7456,1,3,10.0,"Overlays flight data (battery, speed, signal) onto the video feed."
+4,4-in-1 ESC MOSFETs + Gate Drivers,LCSC,https://www.lcsc.com,1,10,10.0,Controls motor speed in response to flight controller commands.
+5,Passives (R/C/L) + Voltage Regulators,LCSC,https://www.lcsc.com,1,10,5.0,Smooths and filters power across the board to protect components.
+6,IMU — ICM-42688-P,LCSC,https://www.lcsc.com/search?q=ICM-42688,1,5,4.0,Measures rotation and movement so the drone can stabilise itself.
+7,JST / Molex Connectors (J1–J4),LCSC,https://www.lcsc.com,1,4,,"Plug sockets for connecting the receiver, camera, VTX and LEDs."
+  MOTORS,,,https://www.lcsc.com/,,,,
+8,GEPRC SPEEDX2 1404 Motor (×4),GetFPV,https://www.getfpv.com/geprc-speedx2-1404-brushless-motor.html,4,14.99,59.96,Spin the propellers to generate thrust and lift.
+  CAMERA & VIDEO,,,https://www.getfpv.com/geprc-speedx2-1404-brushless-motor.html,,,,
+10,Caddx Ant Lite Analog Camera,GetFPV,https://www.getfpv.com/caddx-ant-lite-fpv-camera.html,1,18,,Captures the live video feed that is sent to the goggles.
+11,,,,,,,
+  RADIO SYSTEM,,,https://www.getfpv.com/caddx-ant-lite-fpv-camera.html,,,,
+12,RadioMaster Pocket (ELRS 2.4 GHz),GetFPV,https://www.getfpv.com/radiomaster-pocket-radio-cc2500-elrs-2-4ghz.html,1,71.49,10.0,The handheld controller you use to fly the drone.
+13,,,,,,,
+14,18650 Cells for Radio (×2),Amazon,https://www.amazon.com/s?k=18650+unprotected+flat+top,2,5,89.0,Power source for the radio transmitter.
+  FPV GOGGLES,,,https://www.getfpv.com/betafpv-elrs-lite-receiver.html,,,,
+15,EV800D 5.8 GHz Analog Goggles w/ DVR,GetFPV,https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html,1,89,22.0,Headset that displays the live video from the drone camera.
+  BATTERIES & CHARGING,,,,,,,
+16,3S 650 mAh LiPo XT30 — CNHL (×2),Amazon,https://www.amazon.com/s?k=CNHL+650mAh+3S+XT30,2,11,,Stores energy and powers the entire drone during flight.
+17,,,,,,,
+  WIRING & CONNECTORS,,,https://www.amazon.com/s?k=CNHL+650mAh+3S+XT30,,,,
+18,Silicone Wire Assorted 24–28 AWG,Amazon,https://www.amazon.com/s?k=silicone+wire+24+28+awg+assorted,1,6,,Carries electrical current between components.
+19,,,,,,,
+  HARDWARE — FASTENERS & STANDOFFS,,,https://www.amazon.com/s?k=silicone+wire+24+28+awg+assorted,,,,
+20,M2 Screws Assorted 6–16 mm (100 pcs),Amazon,https://www.amazon.com/s?k=M2+screws+assorted+kit,1,4,2.0,"Bolt the flight controller, motors and frame together."
+21,,,,,,,
+22,M2 Nuts (×50),Amazon,https://www.amazon.com/s?k=M2+nuts+50+pack,1,2,,Lock screws in place so they do not vibrate loose mid-flight.
+23,Rubber Grommets / Anti-vibe Mounts,Amazon,https://www.amazon.com/s?k=M2+rubber+grommets+anti+vibration+FPV,1,3,,Absorb vibration between the FC and frame for a clean gyro signal.
+,,,https://www.amazon.com/s?k=M2+nuts+50+pack,,,,
+,,,https://www.amazon.com/s?k=M2+rubber+grommets+anti+vibration+FPV,,,,
