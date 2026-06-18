@@ -1,5 +1,4 @@
 3-INCH FPV DRONE — BILL OF MATERIALS,,,,,,,
-"Target: ≤ $400 USD  |  Weight: < 250 g  |  Owns: Frame, Prop Guards, Soldering Iron & Solder",,,,,,,
 #,Item,Vendor,Product URL,Qty,Unit ($),Total ($),Notes
   PCB / FLIGHT CONTROLLER BUILD,,,,,,,
 1,"PCB Fabrication — 4-layer, 5-pack",JLCPCB,https://jlcpcb.com,1,20,20.0,The physical circuit board that all components are soldered onto.
