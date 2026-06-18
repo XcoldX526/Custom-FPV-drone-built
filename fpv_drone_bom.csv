@@ -1,0 +1,34 @@
+3-INCH FPV DRONE — BILL OF MATERIALS,,,,,,,
+"Target: ≤ $400 USD  |  Weight: < 250 g  |  Owns: Frame, Prop Guards, Soldering Iron & Solder",,,,,,,
+#,Item,Vendor,Product URL,Qty,Unit ($),Total ($),Notes
+  PCB / FLIGHT CONTROLLER BUILD,,,,,,,
+1,"PCB Fabrication — 4-layer, 5-pack",JLCPCB,https://jlcpcb.com,1,20,=E5*F5,The physical circuit board that all components are soldered onto.
+2,STM32F722RET6 MCU,LCSC,https://www.lcsc.com/search?q=STM32F722RET6,1,6,=E6*F6,The brain of the drone — runs Betaflight flight control software.
+3,MAX7456 OSD Chip,LCSC,https://www.lcsc.com/search?q=MAX7456,1,3,=E7*F7,"Overlays flight data (battery, speed, signal) onto the video feed."
+4,4-in-1 ESC MOSFETs + Gate Drivers,LCSC,https://www.lcsc.com,1,10,=E8*F8,Controls motor speed in response to flight controller commands.
+5,Passives (R/C/L) + Voltage Regulators,LCSC,https://www.lcsc.com,1,10,=E9*F9,Smooths and filters power across the board to protect components.
+6,IMU — ICM-42688-P,LCSC,https://www.lcsc.com/search?q=ICM-42688,1,5,=E10*F10,Measures rotation and movement so the drone can stabilise itself.
+7,JST / Molex Connectors (J1–J4),LCSC,https://www.lcsc.com,1,4,=E11*F11,"Plug sockets for connecting the receiver, camera, VTX and LEDs."
+  MOTORS & PROPULSION,,,,,,,
+8,GEPRC SPEEDX2 1404 Motor (×4),GetFPV,https://www.getfpv.com/geprc-speedx2-1404-brushless-motor.html,4,14.99,=E13*F13,Spin the propellers to generate thrust and lift.
+9,Gemfan Hurricane 3020-3 Props (2CW+2CCW) ×2 sets,Pyrodrone,https://pyrodrone.com/products/gemfan-hurricane-3020-3-3-tri-blade-1-5mm-centerhole-t-mount-propellers-2cw-2ccw-choose-color,2,3.99,=E14*F14,Generate airflow/thrust. Replaced after crashes — buy spares.
+  CAMERA & VIDEO,,,,,,,
+10,Caddx Ant Lite Analog Camera,GetFPV,https://www.getfpv.com/caddx-ant-lite-fpv-camera.html,1,18,=E16*F16,Captures the live video feed that is sent to the goggles.
+11,AKK A1918 5.8 GHz VTX,Amazon,https://www.amazon.com/s?k=AKK+A1918+VTX,1,20,=E17*F17,Transmits the live video wirelessly from the drone to the goggles.
+  RADIO SYSTEM,,,,,,,
+12,RadioMaster Pocket (ELRS 2.4 GHz),GetFPV,https://www.getfpv.com/radiomaster-pocket-radio-cc2500-elrs-2-4ghz.html,1,71.49,=E19*F19,The handheld controller you use to fly the drone.
+13,ELRS Nano RX — BetaFPV EP2,GetFPV,https://www.getfpv.com/betafpv-elrs-lite-receiver.html,1,12,=E20*F20,Receives signals from the radio controller and sends them to the FC.
+14,18650 Cells for Radio (×2),Amazon,https://www.amazon.com/s?k=18650+unprotected+flat+top,2,5,=E21*F21,Power source for the radio transmitter.
+  FPV GOGGLES,,,,,,,
+15,EV800D 5.8 GHz Analog Goggles w/ DVR,GetFPV,https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html,1,89,=E23*F23,Headset that displays the live video from the drone camera.
+  BATTERIES & CHARGING,,,,,,,
+16,3S 650 mAh LiPo XT30 — CNHL (×2),Amazon,https://www.amazon.com/s?k=CNHL+650mAh+3S+XT30,2,11,=E25*F25,Stores energy and powers the entire drone during flight.
+17,1S–3S USB-C Balance Charger,Amazon,https://www.amazon.com/s?k=1S+3S+lipo+balance+charger+USB-C,1,15,=E26*F26,Safely recharges the LiPo flight batteries.
+  WIRING & CONNECTORS,,,,,,,
+18,Silicone Wire Assorted 24–28 AWG,Amazon,https://www.amazon.com/s?k=silicone+wire+24+28+awg+assorted,1,6,=E28*F28,Carries electrical current between components.
+19,XT30 Connectors (5 pairs) + PH2.0 Set,Amazon,https://www.amazon.com/s?k=XT30+connector+pairs,1,4,=E29*F29,Connects the battery to the drone power circuit.
+  HARDWARE — FASTENERS & STANDOFFS,,,,,,,
+20,M2 Screws Assorted 6–16 mm (100 pcs),Amazon,https://www.amazon.com/s?k=M2+screws+assorted+kit,1,4,=E31*F31,"Bolt the flight controller, motors and frame together."
+21,M2 Nylon Standoffs & Spacers,Amazon,https://www.amazon.com/s?k=M2+nylon+standoffs+spacers,1,3,=E32*F32,Space and isolate the FC above the ESC in the stack.
+22,M2 Nuts (×50),Amazon,https://www.amazon.com/s?k=M2+nuts+50+pack,1,2,=E33*F33,Lock screws in place so they do not vibrate loose mid-flight.
+23,Rubber Grommets / Anti-vibe Mounts,Amazon,https://www.amazon.com/s?k=M2+rubber+grommets+anti+vibration+FPV,1,3,=E34*F34,Absorb vibration between the FC and frame for a clean gyro signal.
